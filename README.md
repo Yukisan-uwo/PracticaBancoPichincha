@@ -49,30 +49,11 @@ La pantalla principal presenta:
 - Interfaz limpia y organizada
 - Mensajes informativos: *"Cuida tus contraseñas, no la compartas con nadie"*
 
-### Estructura de Componentes
+### Estructura de Componentes (capturas del resultado)
 
-```
-┌─────────────────────────────────┐
-│   BANCO PICHINCHA               │
-│   Versión: 9.5.0                │
-├─────────────────────────────────┤
-│                                 │
-│   [Información de seguridad]    │
-│   [MiContr - Usuario/Contraseña]│
-│   [Registrar]                   │
-│                                 │
-├─────────────────────────────────┤
-│  ┌──────┬──────────┬──────────┐ │
-│  │  👤  │  🔍👤   │  • • •   │ │
-│  │Usuario│ Huella/ │  PIN de  │ │
-│  │ Contraseña│Face ID│6 dígitos│
-│  └──────┴──────────┴──────────┘ │
-├─────────────────────────────────┤
-│  📍 Ubícanos  🔑 Clave Digital  ☎️ Llámanos
-├─────────────────────────────────┤
-│  ¿Ingresar con otro usuario?    │
-└─────────────────────────────────┘
-```
+<img width="623" height="1391" alt="image" src="https://github.com/user-attachments/assets/fae6f417-a96c-4475-afb1-3cd3d5d60535" />
+
+<img width="1073" height="970" alt="image" src="https://github.com/user-attachments/assets/f51b7462-7a6a-434f-87ad-54f6257e2eca" />
 
 ### Elementos de Diseño
 
@@ -133,7 +114,7 @@ La pantalla principal presenta:
 
 ## 👨‍💻 Autor
 
-**Desarrollo:** Yukisan-uwo  
+**Desarrollo:** Mario Zambrano 
 **Repositorio:** [PracticaBancoPichincha](https://github.com/Yukisan-uwo/PracticaBancoPichincha)
 
 ## 📄 Licencia
