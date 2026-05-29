@@ -53,6 +53,7 @@ La pantalla principal presenta:
 
 <img width="623" height="1391" alt="image" src="https://github.com/user-attachments/assets/fae6f417-a96c-4475-afb1-3cd3d5d60535" />
 
+
 <img width="1073" height="970" alt="image" src="https://github.com/user-attachments/assets/f51b7462-7a6a-434f-87ad-54f6257e2eca" />
 
 ### Elementos de Diseño
@@ -74,28 +75,6 @@ La pantalla principal presenta:
 - **Plataforma:** Android
 - **Arquitectura:** Native Android Application
 - **Características de Seguridad:** Autenticación biométrica, encriptación de datos
-
-## 📱 Capturas de Pantalla
-
-### Pantalla Principal de Login
-![Pantalla de Inicio](image1.png)
-*Interfaz principal mostrando las opciones de autenticación*
-
-### Vista de Desarrollo (Layout)
-![Vista en Android Studio](image2.png)
-*Estructura de componentes en el editor de diseño*
-
-### Pantalla Móvil Renderizada
-![Pantalla Móvil](image3.png)
-*Vista final en dispositivo mobile*
-
-## 🔒 Medidas de Seguridad
-
-✅ Autenticación multi-factor  
-✅ Biometría integrada (huella, Face ID)  
-✅ Encriptación de credenciales  
-✅ Validación de usuario  
-✅ Mensajes de concientización sobre seguridad  
 
 ## 📋 Requisitos del Sistema
 
